@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
         display: 'flex',
         flexDirection: 'row'
     },
-    navbarMenuLogo:{
+    navbarMenuLogo: {
         color: '#FFFFFF',
         alignItems: 'center',
         fontSize: 35,
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
         height: 40,
         backgroundColor: '#FFFFFF'
     },
-    navbarMenuButton:{
+    navbarMenuButton: {
         // backgroundColor: 'red',
         color: '#FFFFFF',
         width: '100%',
